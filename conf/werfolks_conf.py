@@ -1,6 +1,6 @@
-url = 'https://www.werfolks.com/'
-username ='rohini.gopal@qxf2.com'
-password='Welcome123!'
+url = ''
+username =''
+password=''
 
 post_name = 'Test Post'
 post_desc ='Automating test case for client prospecting activity'
