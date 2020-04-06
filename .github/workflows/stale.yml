@@ -19,3 +19,4 @@ jobs:
         stale-pr-label: 'no-pr-activity'
         days-before-stale: '2'
         operations-per-run: '5' 
+        days-before-close: '1'
